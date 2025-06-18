@@ -1,0 +1,413 @@
+[
+  {
+    "id": "2515020",
+    "name": "FINAL FANTASY XVI",
+    "difficulty": 2,
+    "pcRequirements": 3
+  },
+  {
+    "id": "1462040",
+    "name": "FINAL FANTASY VII REMAKE INTERGRADE",
+    "difficulty": 2,
+    "pcRequirements": 3
+  },
+  {
+    "id": "2909400",
+    "name": "FINAL FANTASY VII REBIRTH",
+    "difficulty": 2,
+    "pcRequirements": 3
+  },
+  {
+    "id": "524220",
+    "name": "NieR:Automata™",
+    "difficulty": 2,
+    "pcRequirements": 2
+  },
+  {
+    "id": "1245620",
+    "name": "ELDEN RING",
+    "difficulty": 3,
+    "pcRequirements": 2,
+    "languageNotRequired": true
+  },
+  {
+    "id": "2679460",
+    "name": "Metaphor: ReFantazio",
+    "difficulty": 2,
+    "pcRequirements": 2
+  },
+  {
+    "id": "1687950",
+    "name": "Persona 5 Royal",
+    "difficulty": 2,
+    "pcRequirements": 2
+  },
+  {
+    "id": "1903340",
+    "name": "Clair Obscur: Expedition 33",
+    "difficulty": 2,
+    "pcRequirements": 2
+  },
+  {
+    "id": "374320",
+    "name": "DARK SOULS™ III",
+    "difficulty": 3,
+    "pcRequirements": 2,
+    "languageNotRequired": true
+  },
+  {
+    "id": "1850510",
+    "name": "TRIANGLE STRATEGY",
+    "difficulty": 2,
+    "pcRequirements": 1
+  },
+  {
+    "id": "921570",
+    "name": "OCTOPATH TRAVELER™",
+    "difficulty": 2,
+    "pcRequirements": 2
+  },
+  {
+    "id": "1971650",
+    "name": "OCTOPATH TRAVELER II",
+    "difficulty": 2,
+    "pcRequirements": 2
+  },
+  {
+    "id": "1451090",
+    "name": "Tactics Ogre: Reborn",
+    "difficulty": 3,
+    "pcRequirements": 2
+  },
+  {
+    "id": "1244090",
+    "name": "Sea of Stars",
+    "difficulty": 1,
+    "pcRequirements": 1
+  },
+  {
+    "id": "206440",
+    "name": "To the Moon",
+    "difficulty": 1,
+    "pcRequirements": 1
+  },
+  {
+    "id": "814380",
+    "name": "Sekiro™: Shadows Die Twice - GOTY Edition",
+    "difficulty": 3,
+    "pcRequirements": 2,
+    "languageNotRequired": true
+  },
+  {
+    "id": "601150",
+    "name": "Devil May Cry 5",
+    "difficulty": 3,
+    "pcRequirements": 2,
+    "languageNotRequired": true
+  },
+  {
+    "id": "883710",
+    "name": "Resident Evil 2",
+    "difficulty": 2,
+    "pcRequirements": 2,
+    "languageNotRequired": true
+  },
+  {
+    "id": "952060",
+    "name": "Resident Evil 3",
+    "difficulty": 2,
+    "pcRequirements": 2,
+    "languageNotRequired": true
+  },
+  {
+    "id": "2050650",
+    "name": "Resident Evil 4",
+    "difficulty": 2,
+    "pcRequirements": 2,
+    "languageNotRequired": true
+  },
+  {
+    "id": "418370",
+    "name": "Resident Evil 7 Biohazard",
+    "difficulty": 2,
+    "pcRequirements": 2,
+    "languageNotRequired": true
+  },
+  {
+    "id": "1196590",
+    "name": "Resident Evil Village",
+    "difficulty": 2,
+    "pcRequirements": 2,
+    "languageNotRequired": true
+  },
+  {
+    "id": "414340",
+    "name": "Hellblade: Senua's Sacrifice",
+    "difficulty": 2,
+    "pcRequirements": 2
+  },
+  {
+    "id": "2124490",
+    "name": "SILENT HILL 2",
+    "difficulty": 2,
+    "pcRequirements": 2
+  },
+  {
+    "id": "1850570",
+    "name": "DEATH STRANDING DIRECTOR'S CUT",
+    "difficulty": 2,
+    "pcRequirements": 2
+  },
+  {
+    "id": "553420",
+    "name": "TUNIC",
+    "difficulty": 2,
+    "pcRequirements": 1,
+    "languageNotRequired": true
+  },
+  {
+    "id": "460950",
+    "name": "Katana ZERO",
+    "difficulty": 2,
+    "pcRequirements": 1,
+    "languageNotRequired": true
+  },
+  {
+    "id": "219150",
+    "name": "Hotline Miami",
+    "difficulty": 2,
+    "pcRequirements": 1,
+    "languageNotRequired": true
+  },
+  {
+    "id": "367520",
+    "name": "Hollow Knight",
+    "difficulty": 3,
+    "pcRequirements": 1,
+    "languageNotRequired": true
+  },
+  {
+    "id": "1145360",
+    "name": "Hades",
+    "difficulty": 2,
+    "pcRequirements": 1,
+    "languageNotRequired": true
+  },
+  {
+    "id": "1349230",
+    "name": "5D Chess With Multiverse Time Travel",
+    "difficulty": 3,
+    "pcRequirements": 1
+  },
+  {
+    "id": "384190",
+    "name": "ABZU",
+    "difficulty": 1,
+    "pcRequirements": 1,
+    "languageNotRequired": true
+  },
+  {
+    "id": "736260",
+    "name": "Baba Is You",
+    "difficulty": 3,
+    "pcRequirements": 1,
+    "languageNotRequired": true
+  },
+  {
+    "id": "1082430",
+    "name": "Before Your Eyes",
+    "difficulty": 1,
+    "pcRequirements": 1
+  },
+  {
+    "id": "1607680",
+    "name": "Bread & Fred",
+    "difficulty": 2,
+    "pcRequirements": 1,
+    "languageNotRequired": true
+  },
+  {
+    "id": "2835570",
+    "name": "Buckshot Roulette",
+    "difficulty": 2,
+    "pcRequirements": 1,
+    "languageNotRequired": true
+  },
+  {
+    "id": "504230",
+    "name": "Celeste",
+    "difficulty": 3,
+    "pcRequirements": 1,
+    "languageNotRequired": true
+  },
+  {
+    "id": "1123450",
+    "name": "Chicory: A Colorful Tale",
+    "difficulty": 1,
+    "pcRequirements": 1,
+    "languageNotRequired": true
+  },
+  {
+    "id": "1497440",
+    "name": "COCOON",
+    "difficulty": 2,
+    "pcRequirements": 1,
+    "languageNotRequired": true
+  },
+  {
+    "id": "268910",
+    "name": "Cuphead",
+    "difficulty": 3,
+    "pcRequirements": 1,
+    "languageNotRequired": true
+  },
+  {
+    "id": "588650",
+    "name": "Dead Cells",
+    "difficulty": 3,
+    "pcRequirements": 1,
+    "languageNotRequired": true
+  },
+  {
+    "id": "632470",
+    "name": "Disco Elysium - The Final Cut",
+    "difficulty": 1,
+    "pcRequirements": 1
+  },
+  {
+    "id": "683320",
+    "name": "GRIS",
+    "difficulty": 1,
+    "pcRequirements": 1,
+    "languageNotRequired": true
+  },
+  {
+    "id": "304430",
+    "name": "INSIDE",
+    "difficulty": 1,
+    "pcRequirements": 1,
+    "languageNotRequired": true
+  },
+  {
+    "id": "638230",
+    "name": "Journey",
+    "difficulty": 1,
+    "pcRequirements": 1,
+    "languageNotRequired": true
+  },
+  {
+    "id": "48000",
+    "name": "LIMBO",
+    "difficulty": 1,
+    "pcRequirements": 1,
+    "languageNotRequired": true
+  },
+  {
+    "id": "335670",
+    "name": "LISA: The Painful",
+    "difficulty": 2,
+    "pcRequirements": 1
+  },
+  {
+    "id": "1282730",
+    "name": "Loop Hero",
+    "difficulty": 2,
+    "pcRequirements": 1
+  },
+  {
+    "id": "1533420",
+    "name": "Neon White",
+    "difficulty": 2,
+    "pcRequirements": 1
+  },
+  {
+    "id": "753640",
+    "name": "Outer Wilds",
+    "difficulty": 2,
+    "pcRequirements": 1
+  },
+  {
+    "id": "1055540",
+    "name": "A Short Hike",
+    "difficulty": 1,
+    "pcRequirements": 1
+  },
+  {
+    "id": "1703340",
+    "name": "The Stanley Parable: Ultra Deluxe",
+    "difficulty": 1,
+    "pcRequirements": 1
+  },
+  {
+    "id": "391540",
+    "name": "Undertale",
+    "difficulty": 1,
+    "pcRequirements": 1
+  },
+  {
+    "id": "2073850",
+    "name": "THE FINALS",
+    "difficulty": 2,
+    "pcRequirements": 2
+  },
+  {
+    "id": "394510",
+    "name": "HELLDIVERS™ Dive Harder Edition",
+    "difficulty": 2,
+    "pcRequirements": 1
+  },
+  {
+    "id": "1426210",
+    "name": "It Takes Two",
+    "difficulty": 1,
+    "pcRequirements": 2
+  },
+  {
+    "id": "550",
+    "name": "Left 4 Dead 2",
+    "difficulty": 2,
+    "pcRequirements": 1
+  },
+  {
+    "id": "728880",
+    "name": "Overcooked! 2",
+    "difficulty": 1,
+    "pcRequirements": 1
+  },
+  {
+    "id": "1509960",
+    "name": "PICO PARK",
+    "difficulty": 1,
+    "pcRequirements": 1
+  },
+  {
+    "id": "620",
+    "name": "Portal 2",
+    "difficulty": 2,
+    "pcRequirements": 1
+  },
+  {
+    "id": "2138720",
+    "name": "REMATCH",
+    "difficulty": 2,
+    "pcRequirements": 1
+  },
+  {
+    "id": "113200",
+    "name": "The Binding of Isaac",
+    "difficulty": 3,
+    "pcRequirements": 1
+  },
+  {
+    "id": "1092790",
+    "name": "Inscryption",
+    "difficulty": 2,
+    "pcRequirements": 1
+  },
+  {
+    "id": "1794680",
+    "name": "Vampire Survivors",
+    "difficulty": 2,
+    "pcRequirements": 1
+  }
+]

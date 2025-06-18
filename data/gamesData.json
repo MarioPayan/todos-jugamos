@@ -1,0 +1,1242 @@
+{
+  "games": [
+    {
+      "id": "2515020",
+      "name": "FINAL FANTASY XVI",
+      "price": "COL$ 170.000",
+      "priceValue": 42.5,
+      "priceCategory": "expensive",
+      "difficulty": "Casual - Moderadamente desafiante",
+      "difficultyCategory": "casual",
+      "specs": "Computador potente",
+      "specsCategory": "powerful",
+      "language": "Disponible en español",
+      "languageCategory": "spanish",
+      "platforms": [
+        "windows"
+      ],
+      "hasSpanish": true,
+      "description": "Un épico mundo de fantasía oscura cuyo destino está en manos de los poderosos eikon y de los Dominantes que los controlan. Esta es la historia de Clive Rosfield, que jura vengarse del misterioso eikon oscuro Ifrit que solo deja desgracias a su paso.",
+      "steamUrl": "https://store.steampowered.com/app/2515020/"
+    },
+    {
+      "id": "1462040",
+      "name": "FINAL FANTASY VII REMAKE INTERGRADE",
+      "price": "COL$ 135.000",
+      "priceValue": 33.75,
+      "priceCategory": "expensive",
+      "difficulty": "Casual - Moderadamente desafiante",
+      "difficultyCategory": "casual",
+      "specs": "Computador potente",
+      "specsCategory": "powerful",
+      "language": "Disponible en español",
+      "languageCategory": "spanish",
+      "platforms": [
+        "windows"
+      ],
+      "hasSpanish": true,
+      "description": "Cloud Strife, exmiembro de Soldado, se adentra en la ciudad del mako, Midgar. El mundo del clásico juego FINAL FANTASY VII renace con gráficos de última generación, un nuevo sistema de combates y una aventura adicional con Yuffie Kirasagi como protagonista.",
+      "steamUrl": "https://store.steampowered.com/app/1462040/"
+    },
+    {
+      "id": "2909400",
+      "name": "FINAL FANTASY VII REBIRTH",
+      "price": "COL$ 240.000",
+      "priceValue": 60,
+      "priceCategory": "expensive",
+      "difficulty": "Casual - Moderadamente desafiante",
+      "difficultyCategory": "casual",
+      "specs": "Computador potente",
+      "specsCategory": "powerful",
+      "language": "Disponible en español",
+      "languageCategory": "spanish",
+      "platforms": [
+        "windows"
+      ],
+      "hasSpanish": true,
+      "description": "El viaje a lo desconocido continúa... Tras escapar de la ciudad de Midgar, Cloud y sus amigos emprenden un viaje a través del planeta. Un mundo enorme les depara nuevas aventuras en este título independiente dentro de la trilogía remake de FFVII.",
+      "steamUrl": "https://store.steampowered.com/app/2909400/"
+    },
+    {
+      "id": "524220",
+      "name": "NieR:Automata™",
+      "price": "COL$ 123.323",
+      "priceValue": 30.83075,
+      "priceCategory": "expensive",
+      "difficulty": "Casual - Moderadamente desafiante",
+      "difficultyCategory": "casual",
+      "specs": "Computador decente",
+      "specsCategory": "decent",
+      "language": "Disponible en español",
+      "languageCategory": "spanish",
+      "platforms": [
+        "windows"
+      ],
+      "hasSpanish": true,
+      "description": "NieR: Automata narra la historia de los androides 2B, 9S y A2, que luchan para recuperar el mundo distópico dirigido por las máquinas que han invadido unas poderosas formas de vida mecánicas.",
+      "steamUrl": "https://store.steampowered.com/app/524220/"
+    },
+    {
+      "id": "1245620",
+      "name": "ELDEN RING",
+      "price": "COL$ 201.900",
+      "priceValue": 50.475,
+      "priceCategory": "expensive",
+      "difficulty": "Experimentado - Muy desafiante",
+      "difficultyCategory": "hardcore",
+      "specs": "Computador decente",
+      "specsCategory": "decent",
+      "languageCategory": "not-applicable",
+      "platforms": [
+        "windows"
+      ],
+      "hasSpanish": true,
+      "description": "EL NUEVO JUEGO DE ROL Y ACCIÓN DE AMBIENTACIÓN FANTÁSTICA. Álzate, Sinluz, y que la gracia te guíe para abrazar el poder del Círculo de Elden y encumbrarte como señor del Círculo en las Tierras Intermedias.",
+      "steamUrl": "https://store.steampowered.com/app/1245620/"
+    },
+    {
+      "id": "2679460",
+      "name": "Metaphor: ReFantazio",
+      "price": "COL$ 249.999",
+      "priceValue": 62.49975,
+      "priceCategory": "expensive",
+      "difficulty": "Casual - Moderadamente desafiante",
+      "difficultyCategory": "casual",
+      "specs": "Computador decente",
+      "specsCategory": "decent",
+      "language": "Disponible en español",
+      "languageCategory": "spanish",
+      "platforms": [
+        "windows"
+      ],
+      "hasSpanish": true,
+      "description": "Tras su asesinato y por voluntad del difunto rey, el próximo monarca ha de ser elegido por el pueblo. Forja vínculos y conquista un reino dividido en este galardonado juego de rol y fantasía con combates de acción y por turnos, personalización del grupo con arquetipos y horas de exploración.",
+      "steamUrl": "https://store.steampowered.com/app/2679460/"
+    },
+    {
+      "id": "1687950",
+      "name": "Persona 5 Royal",
+      "price": "COL$ 203.999",
+      "priceValue": 50.99975,
+      "priceCategory": "expensive",
+      "difficulty": "Casual - Moderadamente desafiante",
+      "difficultyCategory": "casual",
+      "specs": "Computador decente",
+      "specsCategory": "decent",
+      "language": "Disponible en español",
+      "languageCategory": "spanish",
+      "platforms": [
+        "windows"
+      ],
+      "hasSpanish": true,
+      "description": "Ponte la máscara, acompaña a los Ladrones Fantasma de Corazones en sus asaltos ¡e infíltrate en la mente de los corruptos para hacerles cambiar de opinión!",
+      "steamUrl": "https://store.steampowered.com/app/1687950/"
+    },
+    {
+      "id": "1903340",
+      "name": "Clair Obscur: Expedition 33",
+      "price": "COL$ 153.000",
+      "priceValue": 38.25,
+      "priceCategory": "expensive",
+      "difficulty": "Casual - Moderadamente desafiante",
+      "difficultyCategory": "casual",
+      "specs": "Computador decente",
+      "specsCategory": "decent",
+      "language": "Disponible en español",
+      "languageCategory": "spanish",
+      "platforms": [
+        "windows"
+      ],
+      "hasSpanish": true,
+      "description": "Guía a la expedición 33 en su viaje para destruir a la Peintresse para que no pinte la muerte. Explora un mundo inspirado por la Francia de la Belle Époque y combate enemigos únicos en este juego de rol por turnos con mecánicas en tiempo real.",
+      "steamUrl": "https://store.steampowered.com/app/1903340/"
+    },
+    {
+      "id": "374320",
+      "name": "DARK SOULS™ III",
+      "price": "COL$ 199.900",
+      "priceValue": 49.975,
+      "priceCategory": "expensive",
+      "difficulty": "Experimentado - Muy desafiante",
+      "difficultyCategory": "hardcore",
+      "specs": "Computador decente",
+      "specsCategory": "decent",
+      "languageCategory": "not-applicable",
+      "platforms": [
+        "windows"
+      ],
+      "hasSpanish": true,
+      "description": "Dark Souls continúa redefiniendo los límites con el nuevo y ambicioso capítulo de esta serie revolucionaria, tan aclamada por la crítica. ¡Prepárate para sumergirte en la oscuridad!",
+      "steamUrl": "https://store.steampowered.com/app/374320/"
+    },
+    {
+      "id": "1850510",
+      "name": "TRIANGLE STRATEGY",
+      "price": "COL$ 262.900",
+      "priceValue": 65.725,
+      "priceCategory": "expensive",
+      "difficulty": "Casual - Moderadamente desafiante",
+      "difficultyCategory": "casual",
+      "specs": "Cualquier computador",
+      "specsCategory": "any",
+      "language": "Disponible en español",
+      "languageCategory": "spanish",
+      "platforms": [
+        "windows"
+      ],
+      "hasSpanish": true,
+      "description": "Un RPG táctico del equipo responsable de la serie Bravely y Octopath Traveler. Una historia épica con impresionantes gráficos HD-2D en la que tendrás que tomar decisiones difíciles dentro de la trama ambientada en el continente de Norselia, que ha sido devastado por la guerra.",
+      "steamUrl": "https://store.steampowered.com/app/1850510/"
+    },
+    {
+      "id": "921570",
+      "name": "OCTOPATH TRAVELER™",
+      "price": "COL$ 184.500",
+      "priceValue": 46.125,
+      "priceCategory": "expensive",
+      "difficulty": "Casual - Moderadamente desafiante",
+      "difficultyCategory": "casual",
+      "specs": "Computador decente",
+      "specsCategory": "decent",
+      "language": "Disponible en español",
+      "languageCategory": "spanish",
+      "platforms": [
+        "windows"
+      ],
+      "hasSpanish": true,
+      "description": "Ocho viajeros. Ocho aventuras. Ocho roles. Embárcate en un viaje épico a través del vasto y asombroso mundo de Orsterra y descubre las fascinantes historias de cada uno de los ocho viajeros.",
+      "steamUrl": "https://store.steampowered.com/app/921570/"
+    },
+    {
+      "id": "1971650",
+      "name": "OCTOPATH TRAVELER II",
+      "price": "COL$ 262.900",
+      "priceValue": 65.725,
+      "priceCategory": "expensive",
+      "difficulty": "Casual - Moderadamente desafiante",
+      "difficultyCategory": "casual",
+      "specs": "Computador decente",
+      "specsCategory": "decent",
+      "language": "Disponible en español",
+      "languageCategory": "spanish",
+      "platforms": [
+        "windows"
+      ],
+      "hasSpanish": true,
+      "description": "Un juego nuevo de rol de la saga OCTOPATH TRAVELER, cuya primera entrega se publicó en 2018 y vendió más de tres millones de copias en todo el mundo.",
+      "steamUrl": "https://store.steampowered.com/app/1971650/"
+    },
+    {
+      "id": "1451090",
+      "name": "Tactics Ogre: Reborn",
+      "price": "COL$ 165.000",
+      "priceValue": 41.25,
+      "priceCategory": "expensive",
+      "difficulty": "Experimentado - Muy desafiante",
+      "difficultyCategory": "hardcore",
+      "specs": "Computador decente",
+      "specsCategory": "decent",
+      "language": "Disponible en español",
+      "languageCategory": "spanish",
+      "platforms": [
+        "windows"
+      ],
+      "hasSpanish": true,
+      "description": "El rey de los juegos de rol de simulación, Tactics Ogre, renace con nuevos cambios que lo catapultan a otro nivel. El juego de 2010 recibe retoques gráficos y sonoros, así como un remozado diseño de juego que le devuelve a la actualidad.",
+      "steamUrl": "https://store.steampowered.com/app/1451090/"
+    },
+    {
+      "id": "1244090",
+      "name": "Sea of Stars",
+      "price": "COL$ 81.000",
+      "priceValue": 20.25,
+      "priceCategory": "normal",
+      "difficulty": "Principiante - Fácil de aprender",
+      "difficultyCategory": "easy",
+      "specs": "Cualquier computador",
+      "specsCategory": "any",
+      "language": "Disponible en español",
+      "languageCategory": "spanish",
+      "platforms": [
+        "windows"
+      ],
+      "hasSpanish": true,
+      "description": "Sea of Stars is a turn-based RPG inspired by the classics. It tells the story of two Children of the Solstice who will combine the powers of the sun and moon to perform Eclipse Magic, the only force capable of fending off the monstrous creations of the evil alchemist known as The Fleshmancer.",
+      "steamUrl": "https://store.steampowered.com/app/1244090/"
+    },
+    {
+      "id": "206440",
+      "name": "To the Moon",
+      "price": "COL$ 26.000",
+      "priceValue": 6.5,
+      "priceCategory": "cheap",
+      "difficulty": "Principiante - Fácil de aprender",
+      "difficultyCategory": "easy",
+      "specs": "Cualquier computador",
+      "specsCategory": "any",
+      "language": "Disponible en español",
+      "languageCategory": "spanish",
+      "platforms": [
+        "windows",
+        "mac",
+        "linux"
+      ],
+      "hasSpanish": true,
+      "description": "Una experiencia basada en la historia de dos doctores que recorren hacia atrás los recuerdos de un hombre moribundo con el fin de cumplir artificialmente su último deseo.",
+      "steamUrl": "https://store.steampowered.com/app/206440/"
+    },
+    {
+      "id": "814380",
+      "name": "Sekiro™: Shadows Die Twice - GOTY Edition",
+      "price": "COL$ 249.100",
+      "priceValue": 62.275,
+      "priceCategory": "expensive",
+      "difficulty": "Experimentado - Muy desafiante",
+      "difficultyCategory": "hardcore",
+      "specs": "Computador decente",
+      "specsCategory": "decent",
+      "languageCategory": "not-applicable",
+      "platforms": [
+        "windows"
+      ],
+      "hasSpanish": true,
+      "description": "Juego del año - The Game Awards 2019 Mejor juego de acción de 2019 - IGN Traza tu propio camino hacia la venganza en la galardonada aventura de FromSoftware, creadores de Bloodborne y la saga Dark Souls. Véngate. Restituye tu honor. Mata con ingenio.",
+      "steamUrl": "https://store.steampowered.com/app/814380/"
+    },
+    {
+      "id": "601150",
+      "name": "Devil May Cry 5",
+      "price": "COL$ 19.925",
+      "priceValue": 4.98125,
+      "priceCategory": "cheap",
+      "difficulty": "Experimentado - Muy desafiante",
+      "difficultyCategory": "hardcore",
+      "specs": "Computador decente",
+      "specsCategory": "decent",
+      "languageCategory": "not-applicable",
+      "platforms": [
+        "windows"
+      ],
+      "hasSpanish": true,
+      "description": "El cazademonios definitivo vuelve con estilo en el juego que los fans de la acción estaban esperando.",
+      "steamUrl": "https://store.steampowered.com/app/601150/"
+    },
+    {
+      "id": "883710",
+      "name": "Resident Evil 2",
+      "price": "COL$ 28.000",
+      "priceValue": 7,
+      "priceCategory": "cheap",
+      "difficulty": "Casual - Moderadamente desafiante",
+      "difficultyCategory": "casual",
+      "specs": "Computador decente",
+      "specsCategory": "decent",
+      "languageCategory": "not-applicable",
+      "platforms": [
+        "windows"
+      ],
+      "hasSpanish": true,
+      "description": "Publicado originalmente en 1998, Resident Evil 2, uno de los juegos más icónicos de todos los tiempos, regresa completamente reinventado para las consolas de nueva generación.",
+      "steamUrl": "https://store.steampowered.com/app/883710/"
+    },
+    {
+      "id": "952060",
+      "name": "Resident Evil 3",
+      "price": "COL$ 28.000",
+      "priceValue": 7,
+      "priceCategory": "cheap",
+      "difficulty": "Casual - Moderadamente desafiante",
+      "difficultyCategory": "casual",
+      "specs": "Computador decente",
+      "specsCategory": "decent",
+      "languageCategory": "not-applicable",
+      "platforms": [
+        "windows"
+      ],
+      "hasSpanish": true,
+      "description": "Jill Valentine es una de las pocas personas que quedan en Raccoon City que han sido testigos de las atrocidades de Umbrella. Para detenerla, Umbrella decide usar su arma secreta definitiva: ¡Nemesis! También incluye Resident Evil Resistance, un nuevo modo multijugador online 1 contra 4.",
+      "steamUrl": "https://store.steampowered.com/app/952060/"
+    },
+    {
+      "id": "2050650",
+      "name": "Resident Evil 4",
+      "price": "COL$ 56.350",
+      "priceValue": 14.0875,
+      "priceCategory": "normal",
+      "difficulty": "Casual - Moderadamente desafiante",
+      "difficultyCategory": "casual",
+      "specs": "Computador decente",
+      "specsCategory": "decent",
+      "languageCategory": "not-applicable",
+      "platforms": [
+        "windows"
+      ],
+      "hasSpanish": true,
+      "description": "Sobrevivir es solo el principio. Con una mecánica de juego modernizada, una historia reimaginada y unos gráficos espectacularmente detallados, Resident Evil 4 supone el renacimiento de un gigante del mundo de los videojuegos.",
+      "steamUrl": "https://store.steampowered.com/app/2050650/"
+    },
+    {
+      "id": "418370",
+      "name": "Resident Evil 7 Biohazard",
+      "price": "COL$ 21.360",
+      "priceValue": 5.34,
+      "priceCategory": "cheap",
+      "difficulty": "Casual - Moderadamente desafiante",
+      "difficultyCategory": "casual",
+      "specs": "Computador decente",
+      "specsCategory": "decent",
+      "languageCategory": "not-applicable",
+      "platforms": [
+        "windows"
+      ],
+      "hasSpanish": true,
+      "description": "El peligro y la soledad emanan de las decrépitas paredes de una granja abandonada en el sur de los EE. UU. «7» marca un nuevo inicio para el género del survival horror, con el cambio a la aterradora perspectiva de jugador «vista aislada». Con el RE Engine, el terror llega a nuevas cotas de fotorrealismo.",
+      "steamUrl": "https://store.steampowered.com/app/418370/"
+    },
+    {
+      "id": "1196590",
+      "name": "Resident Evil Village",
+      "price": "COL$ 28.000",
+      "priceValue": 7,
+      "priceCategory": "cheap",
+      "difficulty": "Casual - Moderadamente desafiante",
+      "difficultyCategory": "casual",
+      "specs": "Computador decente",
+      "specsCategory": "decent",
+      "languageCategory": "not-applicable",
+      "platforms": [
+        "windows"
+      ],
+      "hasSpanish": true,
+      "description": "Vive el survival horror como nunca antes en la 8.ª entrega principal de la aclamada serie Resident Evil: Resident Evil Village. El terror más realista e inescapable, con gráficos hiperdetallados, intensa acción en 1.ª persona y una trama magistral.",
+      "steamUrl": "https://store.steampowered.com/app/1196590/"
+    },
+    {
+      "id": "414340",
+      "name": "Hellblade: Senua's Sacrifice",
+      "price": "COL$ 60.000",
+      "priceValue": 15,
+      "priceCategory": "normal",
+      "difficulty": "Casual - Moderadamente desafiante",
+      "difficultyCategory": "casual",
+      "specs": "Computador decente",
+      "specsCategory": "decent",
+      "language": "Disponible en español",
+      "languageCategory": "spanish",
+      "platforms": [
+        "windows"
+      ],
+      "hasSpanish": true,
+      "description": "De los creadores de Heavenly Sword, Enslaved: Odyssey to the West y DmC: Devil May Cry llega el viaje brutal de una guerrera hacia el mito y la locura. Ambientado en la era vikinga, una guerrera celta destrozada se embarca en una misión onírica obsesiva para luchar por el alma de su difunto amante.",
+      "steamUrl": "https://store.steampowered.com/app/414340/"
+    },
+    {
+      "id": "2124490",
+      "name": "SILENT HILL 2",
+      "price": "COL$ 131.940",
+      "priceValue": 32.985,
+      "priceCategory": "expensive",
+      "difficulty": "Casual - Moderadamente desafiante",
+      "difficultyCategory": "casual",
+      "specs": "Computador decente",
+      "specsCategory": "decent",
+      "language": "Disponible en español",
+      "languageCategory": "spanish",
+      "platforms": [
+        "windows"
+      ],
+      "hasSpanish": true,
+      "description": "«Me llamo... Maria», dice la mujer, sonriendo. Su rostro, su voz... Es igual que ella.",
+      "steamUrl": "https://store.steampowered.com/app/2124490/"
+    },
+    {
+      "id": "1850570",
+      "name": "DEATH STRANDING DIRECTOR'S CUT",
+      "price": "COL$ 51.960",
+      "priceValue": 12.99,
+      "priceCategory": "normal",
+      "difficulty": "Casual - Moderadamente desafiante",
+      "difficultyCategory": "casual",
+      "specs": "Computador decente",
+      "specsCategory": "decent",
+      "language": "Disponible en español",
+      "languageCategory": "spanish",
+      "platforms": [
+        "windows"
+      ],
+      "hasSpanish": true,
+      "description": "El legendario Hideo Kojima nos ofrece una experiencia que desafía los géneros, ahora ampliada con este DIRECTOR’S CUT. Como Sam Bridges, tu misión será dar esperanza a la humanidad conectando a los últimos supervivientes de un país arrasado. ¿Podrás volver a unir, paso a paso, un mundo hecho añicos?",
+      "steamUrl": "https://store.steampowered.com/app/1850570/"
+    },
+    {
+      "id": "553420",
+      "name": "TUNIC",
+      "price": "COL$ 70.000",
+      "priceValue": 17.5,
+      "priceCategory": "normal",
+      "difficulty": "Casual - Moderadamente desafiante",
+      "difficultyCategory": "casual",
+      "specs": "Cualquier computador",
+      "specsCategory": "any",
+      "languageCategory": "not-applicable",
+      "platforms": [
+        "windows",
+        "mac"
+      ],
+      "hasSpanish": true,
+      "description": "Explora un reino plagado de leyendas olvidadas, poderes ancestrales y feroces monstruos en TUNIC, un juego de acción isométrico sobre un pequeño zorro que emprende una gran aventura.",
+      "steamUrl": "https://store.steampowered.com/app/553420/"
+    },
+    {
+      "id": "460950",
+      "name": "Katana ZERO",
+      "price": "COL$ 37.500",
+      "priceValue": 9.375,
+      "priceCategory": "cheap",
+      "difficulty": "Casual - Moderadamente desafiante",
+      "difficultyCategory": "casual",
+      "specs": "Cualquier computador",
+      "specsCategory": "any",
+      "languageCategory": "not-applicable",
+      "platforms": [
+        "windows",
+        "mac"
+      ],
+      "hasSpanish": true,
+      "description": "Katana ZERO es un juego de acción y plataformas neo-noir rebosante de personalidad, acción vertiginosa y combates de muerte instantánea. Usa tu espada, corre y manipula el tiempo para desvelar tu pasado en un despliegue acrobático brutalmente estético.",
+      "steamUrl": "https://store.steampowered.com/app/460950/"
+    },
+    {
+      "id": "219150",
+      "name": "Hotline Miami",
+      "price": "COL$ 26.000",
+      "priceValue": 6.5,
+      "priceCategory": "cheap",
+      "difficulty": "Casual - Moderadamente desafiante",
+      "difficultyCategory": "casual",
+      "specs": "Cualquier computador",
+      "specsCategory": "any",
+      "languageCategory": "not-applicable",
+      "platforms": [
+        "windows",
+        "mac",
+        "linux"
+      ],
+      "hasSpanish": true,
+      "description": "Hotline Miami es un juego de acción de alto octanaje que rebosa brutalidad es estado puro, violentos tiroteos y demoledores combates cuerpo a cuerpo.",
+      "steamUrl": "https://store.steampowered.com/app/219150/"
+    },
+    {
+      "id": "367520",
+      "name": "Hollow Knight",
+      "price": "COL$ 37.500",
+      "priceValue": 9.375,
+      "priceCategory": "cheap",
+      "difficulty": "Experimentado - Muy desafiante",
+      "difficultyCategory": "hardcore",
+      "specs": "Cualquier computador",
+      "specsCategory": "any",
+      "languageCategory": "not-applicable",
+      "platforms": [
+        "windows",
+        "mac",
+        "linux"
+      ],
+      "hasSpanish": true,
+      "description": "¡Forja tu propio camino en Hollow Knight! Una aventura épica a través de un vasto reino de insectos y héroes que se encuentra en ruinas. Explora cavernas tortuosas, combate contra criaturas corrompidas y entabla amistad con extraños insectos, todo en un estilo clásico en 2D dibujado a mano.",
+      "steamUrl": "https://store.steampowered.com/app/367520/"
+    },
+    {
+      "id": "1145360",
+      "name": "Hades",
+      "price": "COL$ 58.800",
+      "priceValue": 14.7,
+      "priceCategory": "normal",
+      "difficulty": "Casual - Moderadamente desafiante",
+      "difficultyCategory": "casual",
+      "specs": "Cualquier computador",
+      "specsCategory": "any",
+      "languageCategory": "not-applicable",
+      "platforms": [
+        "windows",
+        "mac"
+      ],
+      "hasSpanish": true,
+      "description": "Desafía al dios de los muertos y protagoniza una salvaje fuga del Inframundo en este juego de exploración de mazmorras de los creadores de Bastion, Transistor y Pyre.",
+      "steamUrl": "https://store.steampowered.com/app/1145360/"
+    },
+    {
+      "id": "1349230",
+      "name": "5D Chess With Multiverse Time Travel",
+      "price": "COL$ 21.500",
+      "priceValue": 5.375,
+      "priceCategory": "cheap",
+      "difficulty": "Experimentado - Muy desafiante",
+      "difficultyCategory": "hardcore",
+      "specs": "Cualquier computador",
+      "specsCategory": "any",
+      "language": "Disponible en inglés",
+      "languageCategory": "english",
+      "platforms": [
+        "windows",
+        "mac",
+        "linux"
+      ],
+      "hasSpanish": false,
+      "description": "It's the first ever chess variant with spatial, temporal, and parallel dimensions. It's 5D Chess With Multiverse Time Travel! Move pieces back in time to create branching timelines. Send a rook to a parallel dimension. Protect your kings in the present and in the past!",
+      "steamUrl": "https://store.steampowered.com/app/1349230/"
+    },
+    {
+      "id": "384190",
+      "name": "ABZU",
+      "price": "COL$ 10.000",
+      "priceValue": 2.5,
+      "priceCategory": "cheap",
+      "difficulty": "Principiante - Fácil de aprender",
+      "difficultyCategory": "easy",
+      "specs": "Cualquier computador",
+      "specsCategory": "any",
+      "languageCategory": "not-applicable",
+      "platforms": [
+        "windows"
+      ],
+      "hasSpanish": true,
+      "description": "El creador artístico de Journey® nos trae ABZÛ, una bella aventura submarina que evoca el sueño de bucear. Sumérgete en un vibrante mundo lleno de vida y de color y desciende hasta el mismísimo corazón del océano. Pero ten cuidado, ya que hay muchos peligros acechando en las profundidades...",
+      "steamUrl": "https://store.steampowered.com/app/384190/"
+    },
+    {
+      "id": "736260",
+      "name": "Baba Is You",
+      "price": "COL$ 25.000",
+      "priceValue": 6.25,
+      "priceCategory": "cheap",
+      "difficulty": "Experimentado - Muy desafiante",
+      "difficultyCategory": "hardcore",
+      "specs": "Cualquier computador",
+      "specsCategory": "any",
+      "languageCategory": "not-applicable",
+      "platforms": [
+        "windows",
+        "mac",
+        "linux"
+      ],
+      "hasSpanish": true,
+      "description": "Baba Is You es un juego de puzles en el que las reglas son bloques con los que puedes interaccionar. Al manipularlos, ¡cambias el funcionamiento del juego, transformas los objetos del nivel y produces sorprendentes interacciones!",
+      "steamUrl": "https://store.steampowered.com/app/736260/"
+    },
+    {
+      "id": "1082430",
+      "name": "Before Your Eyes",
+      "price": "COL$ 26.000",
+      "priceValue": 6.5,
+      "priceCategory": "cheap",
+      "difficulty": "Principiante - Fácil de aprender",
+      "difficultyCategory": "easy",
+      "specs": "Cualquier computador",
+      "specsCategory": "any",
+      "language": "Disponible en español",
+      "languageCategory": "spanish",
+      "platforms": [
+        "windows",
+        "mac"
+      ],
+      "hasSpanish": true,
+      "description": "Embárcate en una conmovedora aventura narrativa en primera persona, en la que dirigirás la historia —y alterarás su curso— con parpadeos. Esta innovadora técnica te permitirá sumergirte de lleno en un mundo repleto de recuerdos, entrañables y dolorosos, mientras ves la vida pasar ante tus ojos.",
+      "steamUrl": "https://store.steampowered.com/app/1082430/"
+    },
+    {
+      "id": "1607680",
+      "name": "Bread & Fred",
+      "price": "COL$ 37.500",
+      "priceValue": 9.375,
+      "priceCategory": "cheap",
+      "difficulty": "Casual - Moderadamente desafiante",
+      "difficultyCategory": "casual",
+      "specs": "Cualquier computador",
+      "specsCategory": "any",
+      "languageCategory": "not-applicable",
+      "platforms": [
+        "windows",
+        "mac"
+      ],
+      "hasSpanish": true,
+      "description": "¡Acompaña a Pan y Federico! Un rage game donde tendrás que cooperar para saltar y escalar hasta el pico de la montaña. Eso si, tendrás que tener mucho cuidado de no caer, y no arrastrar a tu compañero pingüino camino abajo... ¿Podrás superar junto a un amigo la ruta hasta arriba?",
+      "steamUrl": "https://store.steampowered.com/app/1607680/"
+    },
+    {
+      "id": "2835570",
+      "name": "Buckshot Roulette",
+      "price": "COL$ 8.200",
+      "priceValue": 2.05,
+      "priceCategory": "cheap",
+      "difficulty": "Casual - Moderadamente desafiante",
+      "difficultyCategory": "casual",
+      "specs": "Cualquier computador",
+      "specsCategory": "any",
+      "languageCategory": "not-applicable",
+      "platforms": [
+        "windows",
+        "linux"
+      ],
+      "hasSpanish": true,
+      "description": "Juega a la ruleta rusa con un arma del calibre 12. Cuatro entran. Uno sale. Apuesta tu vida para tirar los dados. Buena suerte.",
+      "steamUrl": "https://store.steampowered.com/app/2835570/"
+    },
+    {
+      "id": "504230",
+      "name": "Celeste",
+      "price": "COL$ 47.500",
+      "priceValue": 11.875,
+      "priceCategory": "normal",
+      "difficulty": "Experimentado - Muy desafiante",
+      "difficultyCategory": "hardcore",
+      "specs": "Cualquier computador",
+      "specsCategory": "any",
+      "languageCategory": "not-applicable",
+      "platforms": [
+        "windows",
+        "mac",
+        "linux"
+      ],
+      "hasSpanish": true,
+      "description": "Ayuda a Madeline a sobrevivir a los demonios de su interior en su viaje hasta la cima de la montaña Celeste, en este ajustadísimo plataforma, obra de los creadores de TowerFall. Enfréntate a cientos de desafíos diseñados a mano, devela retorcidos secretos y, y reconstruye el misterio de la montaña.",
+      "steamUrl": "https://store.steampowered.com/app/504230/"
+    },
+    {
+      "id": "1123450",
+      "name": "Chicory: A Colorful Tale",
+      "price": "COL$ 23.750",
+      "priceValue": 5.9375,
+      "priceCategory": "cheap",
+      "difficulty": "Principiante - Fácil de aprender",
+      "difficultyCategory": "easy",
+      "specs": "Cualquier computador",
+      "specsCategory": "any",
+      "languageCategory": "not-applicable",
+      "platforms": [
+        "windows",
+        "mac"
+      ],
+      "hasSpanish": true,
+      "description": "Un juego de aventuras a vista de pájaro en un mundo lleno de personajes pintorescos que parece sacado de un libro para colorear. Usa los poderes de la pintura para explorar, resolver puzles, hacer amistades y dibujar donde quieras. De los creadores de Wandersong y Celeste.",
+      "steamUrl": "https://store.steampowered.com/app/1123450/"
+    },
+    {
+      "id": "1497440",
+      "name": "COCOON",
+      "price": "COL$ 55.900",
+      "priceValue": 13.975,
+      "priceCategory": "normal",
+      "difficulty": "Casual - Moderadamente desafiante",
+      "difficultyCategory": "casual",
+      "specs": "Cualquier computador",
+      "specsCategory": "any",
+      "languageCategory": "not-applicable",
+      "platforms": [
+        "windows"
+      ],
+      "hasSpanish": true,
+      "description": "De Jeppe Carlsen, el diseñador principal de juegos de LIMBO e INSIDE, COCOON te lleva a una aventura a través de mundos dentro de mundos. Domina la mecánica de salto de mundo para desentrañar un misterio cósmico.",
+      "steamUrl": "https://store.steampowered.com/app/1497440/"
+    },
+    {
+      "id": "268910",
+      "name": "Cuphead",
+      "price": "COL$ 40.000",
+      "priceValue": 10,
+      "priceCategory": "normal",
+      "difficulty": "Experimentado - Muy desafiante",
+      "difficultyCategory": "hardcore",
+      "specs": "Cualquier computador",
+      "specsCategory": "any",
+      "languageCategory": "not-applicable",
+      "platforms": [
+        "windows",
+        "mac"
+      ],
+      "hasSpanish": true,
+      "description": "Cuphead es un juego de acción clásico estilo &quot;dispara y corre&quot; que se centra en combates contra el jefe. Inspirado en los dibujos animados de los años 30, los aspectos visual y sonoro están diseñados con esmero empleando las mismas técnicas de la época, es decir, animación tradicional a mano, fondos de acuarela y grabaciones...",
+      "steamUrl": "https://store.steampowered.com/app/268910/"
+    },
+    {
+      "id": "588650",
+      "name": "Dead Cells",
+      "price": "COL$ 41.000",
+      "priceValue": 10.25,
+      "priceCategory": "normal",
+      "difficulty": "Experimentado - Muy desafiante",
+      "difficultyCategory": "hardcore",
+      "specs": "Cualquier computador",
+      "specsCategory": "any",
+      "languageCategory": "not-applicable",
+      "platforms": [
+        "windows",
+        "mac",
+        "linux"
+      ],
+      "hasSpanish": true,
+      "description": "Dead Cells es un juego de acción de plataformas de estilo roguelite inspirado en juegos tipo metroidvania. Explorarás un castillo en constante cambio y expansión. Sin puntos de control: mata, muere, aprende, repite.",
+      "steamUrl": "https://store.steampowered.com/app/588650/"
+    },
+    {
+      "id": "632470",
+      "name": "Disco Elysium - The Final Cut",
+      "price": "COL$ 13.625",
+      "priceValue": 3.40625,
+      "priceCategory": "cheap",
+      "difficulty": "Principiante - Fácil de aprender",
+      "difficultyCategory": "easy",
+      "specs": "Cualquier computador",
+      "specsCategory": "any",
+      "language": "Disponible en español",
+      "languageCategory": "spanish",
+      "platforms": [
+        "windows",
+        "mac"
+      ],
+      "hasSpanish": true,
+      "description": "Disco Elysium - The Final Cut es un revolucionario juego de rol de mundo abierto. Encarna a un detective con un conjunto único de habilidades a su disposición y un barrio entero que recorrer. Interroga personajes memorables, desentraña casos o acepta sobornos. Sé un héroe o un ser humano desastroso.",
+      "steamUrl": "https://store.steampowered.com/app/632470/"
+    },
+    {
+      "id": "683320",
+      "name": "GRIS",
+      "price": "COL$ 37.500",
+      "priceValue": 9.375,
+      "priceCategory": "cheap",
+      "difficulty": "Principiante - Fácil de aprender",
+      "difficultyCategory": "easy",
+      "specs": "Cualquier computador",
+      "specsCategory": "any",
+      "languageCategory": "not-applicable",
+      "platforms": [
+        "windows",
+        "mac"
+      ],
+      "hasSpanish": true,
+      "description": "Gris es una muchacha llena de esperanzas y perdida en su propio mundo, enfrentada a una experiencia dolorosa de su vida.",
+      "steamUrl": "https://store.steampowered.com/app/683320/"
+    },
+    {
+      "id": "304430",
+      "name": "INSIDE",
+      "price": "COL$ 47.500",
+      "priceValue": 11.875,
+      "priceCategory": "normal",
+      "difficulty": "Principiante - Fácil de aprender",
+      "difficultyCategory": "easy",
+      "specs": "Cualquier computador",
+      "specsCategory": "any",
+      "languageCategory": "not-applicable",
+      "platforms": [
+        "windows",
+        "mac"
+      ],
+      "hasSpanish": true,
+      "description": "Perseguido y solo, un niño se encuentra, sin comerlo ni beberlo, en medio de un proyecto oscuro.",
+      "steamUrl": "https://store.steampowered.com/app/304430/"
+    },
+    {
+      "id": "638230",
+      "name": "Journey",
+      "price": "COL$ 35.900",
+      "priceValue": 8.975,
+      "priceCategory": "cheap",
+      "difficulty": "Principiante - Fácil de aprender",
+      "difficultyCategory": "easy",
+      "specs": "Cualquier computador",
+      "specsCategory": "any",
+      "languageCategory": "not-applicable",
+      "platforms": [
+        "windows"
+      ],
+      "hasSpanish": true,
+      "description": "Explora el antiguo y misterioso mundo de Journey a medida que vuelas por ruinas y planeas por desiertos de arena para descubrir sus secretos.",
+      "steamUrl": "https://store.steampowered.com/app/638230/"
+    },
+    {
+      "id": "48000",
+      "name": "LIMBO",
+      "price": "COL$ 26.000",
+      "priceValue": 6.5,
+      "priceCategory": "cheap",
+      "difficulty": "Principiante - Fácil de aprender",
+      "difficultyCategory": "easy",
+      "specs": "Cualquier computador",
+      "specsCategory": "any",
+      "languageCategory": "not-applicable",
+      "platforms": [
+        "windows",
+        "mac"
+      ],
+      "hasSpanish": true,
+      "description": "Dudoso sobre el destino de su hermana, un niño entra en LIMBO",
+      "steamUrl": "https://store.steampowered.com/app/48000/"
+    },
+    {
+      "id": "335670",
+      "name": "LISA: The Painful",
+      "price": "COL$ 56.501",
+      "priceValue": 14.12525,
+      "priceCategory": "normal",
+      "difficulty": "Casual - Moderadamente desafiante",
+      "difficultyCategory": "casual",
+      "specs": "Cualquier computador",
+      "specsCategory": "any",
+      "language": "Disponible en español",
+      "languageCategory": "spanish",
+      "platforms": [
+        "windows",
+        "mac",
+        "linux"
+      ],
+      "hasSpanish": true,
+      "description": "El desdichado periplo de un hombre destrozado...",
+      "steamUrl": "https://store.steampowered.com/app/335670/"
+    },
+    {
+      "id": "1282730",
+      "name": "Loop Hero",
+      "price": "COL$ 37.500",
+      "priceValue": 9.375,
+      "priceCategory": "cheap",
+      "difficulty": "Casual - Moderadamente desafiante",
+      "difficultyCategory": "casual",
+      "specs": "Cualquier computador",
+      "specsCategory": "any",
+      "language": "Disponible en español",
+      "languageCategory": "spanish",
+      "platforms": [
+        "windows",
+        "mac",
+        "linux"
+      ],
+      "hasSpanish": true,
+      "description": "El Lich ha lanzado el mundo entero a un bucle intemporal y ha sumido a sus habitantes en un caos sin fin. Utiliza una baraja creciente de cartas místicas para situar enemigos, edificios y terrenos en cada bucle de expedición único para el valiente héroe.",
+      "steamUrl": "https://store.steampowered.com/app/1282730/"
+    },
+    {
+      "id": "1533420",
+      "name": "Neon White",
+      "price": "COL$ 55.900",
+      "priceValue": 13.975,
+      "priceCategory": "normal",
+      "difficulty": "Casual - Moderadamente desafiante",
+      "difficultyCategory": "casual",
+      "specs": "Cualquier computador",
+      "specsCategory": "any",
+      "language": "Disponible en español",
+      "languageCategory": "spanish",
+      "platforms": [
+        "windows"
+      ],
+      "hasSpanish": true,
+      "description": "Neon White es un frenético juego de plataformas en primera persona que se desarrolla más allá de las puertas del cielo.",
+      "steamUrl": "https://store.steampowered.com/app/1533420/"
+    },
+    {
+      "id": "753640",
+      "name": "Outer Wilds",
+      "price": "COL$ 55.900",
+      "priceValue": 13.975,
+      "priceCategory": "normal",
+      "difficulty": "Casual - Moderadamente desafiante",
+      "difficultyCategory": "casual",
+      "specs": "Cualquier computador",
+      "specsCategory": "any",
+      "language": "Disponible en español",
+      "languageCategory": "spanish",
+      "platforms": [
+        "windows"
+      ],
+      "hasSpanish": true,
+      "description": "Outer Wilds, nombrado juego del año 2019 por Giant Bomb, Polygon, Eurogamer y The Guardian, es un galardonado título de mundo abierto, que se desarrolla en un enigmático sistema solar confinado a un bucle temporal infinito.",
+      "steamUrl": "https://store.steampowered.com/app/753640/"
+    },
+    {
+      "id": "1055540",
+      "name": "A Short Hike",
+      "price": "COL$ 14.900",
+      "priceValue": 3.725,
+      "priceCategory": "cheap",
+      "difficulty": "Principiante - Fácil de aprender",
+      "difficultyCategory": "easy",
+      "specs": "Cualquier computador",
+      "specsCategory": "any",
+      "language": "Disponible en español",
+      "languageCategory": "spanish",
+      "platforms": [
+        "windows",
+        "mac",
+        "linux"
+      ],
+      "hasSpanish": true,
+      "description": "Trepa, camina, y vuela a través de los tranquilos paisajes de la montaña del Parque Provincial Picohalcón en tu camino a la cima.",
+      "steamUrl": "https://store.steampowered.com/app/1055540/"
+    },
+    {
+      "id": "1703340",
+      "name": "The Stanley Parable: Ultra Deluxe",
+      "price": "COL$ 33.500",
+      "priceValue": 8.375,
+      "priceCategory": "cheap",
+      "difficulty": "Principiante - Fácil de aprender",
+      "difficultyCategory": "easy",
+      "specs": "Cualquier computador",
+      "specsCategory": "any",
+      "language": "Disponible en español",
+      "languageCategory": "spanish",
+      "platforms": [
+        "windows",
+        "mac",
+        "linux"
+      ],
+      "hasSpanish": true,
+      "description": "The Stanley Parable: Ultra Deluxe es una versión nueva y expandida de The Stanley Parable, publicado en 2013. Jugarás como Stanley y no jugarás como Stanley. Tomarás una decisión y perderás el control. No estás aquí para ganar. The Stanley Parable es un juego que juega contigo.",
+      "steamUrl": "https://store.steampowered.com/app/1703340/"
+    },
+    {
+      "id": "391540",
+      "name": "Undertale",
+      "price": "COL$ 23.500",
+      "priceValue": 5.875,
+      "priceCategory": "cheap",
+      "difficulty": "Principiante - Fácil de aprender",
+      "difficultyCategory": "easy",
+      "specs": "Cualquier computador",
+      "specsCategory": "any",
+      "language": "Disponible en inglés",
+      "languageCategory": "english",
+      "platforms": [
+        "windows",
+        "mac",
+        "linux"
+      ],
+      "hasSpanish": false,
+      "description": "UNDERTALE! The RPG game where you don't have to destroy anyone.",
+      "steamUrl": "https://store.steampowered.com/app/391540/"
+    },
+    {
+      "id": "2073850",
+      "name": "THE FINALS",
+      "price": "Free",
+      "priceValue": 0,
+      "priceCategory": "free",
+      "difficulty": "Casual - Moderadamente desafiante",
+      "difficultyCategory": "casual",
+      "specs": "Computador decente",
+      "specsCategory": "decent",
+      "language": "Disponible en español",
+      "languageCategory": "spanish",
+      "platforms": [
+        "windows"
+      ],
+      "hasSpanish": true,
+      "description": "¡Únete a THE FINALS, el espectáculo de combate de juego gratuito famoso en el mundo entero! Lucha codo con codo con tus compañeros en arenas virtuales que puedes modificar, aprovechar e incluso destruir.",
+      "steamUrl": "https://store.steampowered.com/app/2073850/"
+    },
+    {
+      "id": "394510",
+      "name": "HELLDIVERS™ Dive Harder Edition",
+      "price": "COL$ 74.000",
+      "priceValue": 18.5,
+      "priceCategory": "normal",
+      "difficulty": "Casual - Moderadamente desafiante",
+      "difficultyCategory": "casual",
+      "specs": "Cualquier computador",
+      "specsCategory": "any",
+      "language": "Disponible en español",
+      "languageCategory": "spanish",
+      "platforms": [
+        "windows"
+      ],
+      "hasSpanish": true,
+      "description": "HELLDIVERS™ es un shooter de doble stick, cooperativo y para jugadores expertos. Como parte de la unidad de élite denominada HELLDIVERS, los jugadores deben cooperar para proteger Supertierra y derrotar a los enemigos de la humanidad en una intensa guerra intergaláctica.",
+      "steamUrl": "https://store.steampowered.com/app/394510/"
+    },
+    {
+      "id": "1426210",
+      "name": "It Takes Two",
+      "price": "COL$ 159.999",
+      "priceValue": 39.99975,
+      "priceCategory": "expensive",
+      "difficulty": "Principiante - Fácil de aprender",
+      "difficultyCategory": "easy",
+      "specs": "Computador decente",
+      "specsCategory": "decent",
+      "language": "Disponible en español",
+      "languageCategory": "spanish",
+      "platforms": [
+        "windows"
+      ],
+      "hasSpanish": true,
+      "description": "Embárcate en la aventura de tu vida en It Takes Two. Invita a un amigo a acompañarte gratis con el Pase de amigo* para colaborar en una gran variedad de desafíos deliciosamente rompedores.",
+      "steamUrl": "https://store.steampowered.com/app/1426210/"
+    },
+    {
+      "id": "550",
+      "name": "Left 4 Dead 2",
+      "price": "COL$ 26.000",
+      "priceValue": 6.5,
+      "priceCategory": "cheap",
+      "difficulty": "Casual - Moderadamente desafiante",
+      "difficultyCategory": "casual",
+      "specs": "Cualquier computador",
+      "specsCategory": "any",
+      "language": "Disponible en español",
+      "languageCategory": "spanish",
+      "platforms": [
+        "windows",
+        "linux"
+      ],
+      "hasSpanish": true,
+      "description": "Ambientado en el apocalipsis zombi, Left 4 Dead 2 (L4D2) es la esperadísima secuela del galardonado Left 4 Dead, el juego cooperativo número 1 de 2008. Este FPS cooperativo de acción y terror os llevará a ti y a tus amigos por las ciudades, pantanos y cementerios del Sur Profundo, desde Savannah hasta Nueva Orleans, a lo largo de cinco...",
+      "steamUrl": "https://store.steampowered.com/app/550/"
+    },
+    {
+      "id": "728880",
+      "name": "Overcooked! 2",
+      "price": "COL$ 8.375",
+      "priceValue": 2.09375,
+      "priceCategory": "cheap",
+      "difficulty": "Principiante - Fácil de aprender",
+      "difficultyCategory": "easy",
+      "specs": "Cualquier computador",
+      "specsCategory": "any",
+      "language": "Disponible en español",
+      "languageCategory": "spanish",
+      "platforms": [
+        "windows",
+        "mac",
+        "linux"
+      ],
+      "hasSpanish": true,
+      "description": "¡Overcooked vuelve con un nuevo y caótico juego de cocina en acción! Regresa al Reino de la Cebolla y organiza tu equipo de chefs en un cooperativo clásico o en partidas en línea de hasta cuatro jugadores. Agarraos los delantales... es hora de salvar el mundo (¡otra vez!)",
+      "steamUrl": "https://store.steampowered.com/app/728880/"
+    },
+    {
+      "id": "1509960",
+      "name": "PICO PARK",
+      "price": "COL$ 9.900",
+      "priceValue": 2.475,
+      "priceCategory": "cheap",
+      "difficulty": "Principiante - Fácil de aprender",
+      "difficultyCategory": "easy",
+      "specs": "Cualquier computador",
+      "specsCategory": "any",
+      "language": "Disponible en inglés",
+      "languageCategory": "english",
+      "platforms": [
+        "windows"
+      ],
+      "hasSpanish": false,
+      "description": "PICO PARK is a cooperative local/online multiplay action puzzle game for 2-8 players.",
+      "steamUrl": "https://store.steampowered.com/app/1509960/"
+    },
+    {
+      "id": "620",
+      "name": "Portal 2",
+      "price": "COL$ 26.000",
+      "priceValue": 6.5,
+      "priceCategory": "cheap",
+      "difficulty": "Casual - Moderadamente desafiante",
+      "difficultyCategory": "casual",
+      "specs": "Cualquier computador",
+      "specsCategory": "any",
+      "language": "Disponible en español",
+      "languageCategory": "spanish",
+      "platforms": [
+        "windows",
+        "linux"
+      ],
+      "hasSpanish": true,
+      "description": "¡La «Iniciativa de Prueba Perpetua» se ha ampliado, permitiéndote ahora diseñar puzles cooperativos para ti y tus amigos!",
+      "steamUrl": "https://store.steampowered.com/app/620/"
+    },
+    {
+      "id": "2138720",
+      "name": "REMATCH",
+      "price": "COL$ 70.000",
+      "priceValue": 17.5,
+      "priceCategory": "normal",
+      "difficulty": "Casual - Moderadamente desafiante",
+      "difficultyCategory": "casual",
+      "specs": "Cualquier computador",
+      "specsCategory": "any",
+      "language": "Disponible en español",
+      "languageCategory": "spanish",
+      "platforms": [
+        "windows"
+      ],
+      "hasSpanish": true,
+      "description": "Rematch es un juego de fútbol multijugador online. Controla un jugador de tu equipo y compite en veloces partidos 5 contra 5 desde una perspectiva inmersiva en tercera persona. Forma equipo con tus amigos y disfrutad de la acción.",
+      "steamUrl": "https://store.steampowered.com/app/2138720/"
+    },
+    {
+      "id": "113200",
+      "name": "The Binding of Isaac",
+      "price": "COL$ 11.900",
+      "priceValue": 2.975,
+      "priceCategory": "cheap",
+      "difficulty": "Experimentado - Muy desafiante",
+      "difficultyCategory": "hardcore",
+      "specs": "Cualquier computador",
+      "specsCategory": "any",
+      "language": "Disponible en inglés",
+      "languageCategory": "english",
+      "platforms": [
+        "windows",
+        "mac"
+      ],
+      "hasSpanish": false,
+      "description": "¡Ahora un 20% más terrorífico con la actualización gratuita de Halloween!",
+      "steamUrl": "https://store.steampowered.com/app/113200/"
+    },
+    {
+      "id": "1092790",
+      "name": "Inscryption",
+      "price": "COL$ 50.000",
+      "priceValue": 12.5,
+      "priceCategory": "normal",
+      "difficulty": "Casual - Moderadamente desafiante",
+      "difficultyCategory": "casual",
+      "specs": "Cualquier computador",
+      "specsCategory": "any",
+      "language": "Disponible en español",
+      "languageCategory": "spanish",
+      "platforms": [
+        "windows",
+        "mac",
+        "linux"
+      ],
+      "hasSpanish": true,
+      "description": "Inscryption es un juego de cartas, una odisea negra como la tinta que mezcla el «roguelike» de creación de mazos, puzles de estilo «escape room» y terror psicológico en un batido con un toque de sangre. Pero más oscuros aún son los secretos inscritos en las cartas...",
+      "steamUrl": "https://store.steampowered.com/app/1092790/"
+    },
+    {
+      "id": "1794680",
+      "name": "Vampire Survivors",
+      "price": "COL$ 9.900",
+      "priceValue": 2.475,
+      "priceCategory": "cheap",
+      "difficulty": "Casual - Moderadamente desafiante",
+      "difficultyCategory": "casual",
+      "specs": "Cualquier computador",
+      "specsCategory": "any",
+      "language": "Disponible en español",
+      "languageCategory": "spanish",
+      "platforms": [
+        "windows",
+        "mac"
+      ],
+      "hasSpanish": true,
+      "description": "¡Aniquila a miles de criaturas de la noche y sobrevive hasta el amanecer! Vampire Survivors es un juego casual de terror gótico con elementos «roguelite» donde tus decisiones te permitirán aumentar tu poder exponencialmente mientras luchas contra cientos de monstruos.",
+      "steamUrl": "https://store.steampowered.com/app/1794680/"
+    }
+  ],
+  "metadata": {
+    "totalGames": 64,
+    "fetchedAt": "2025-06-17T18:24:34.850Z",
+    "source": "Steam Store API"
+  }
+}
