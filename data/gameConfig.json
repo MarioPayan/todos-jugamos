@@ -378,7 +378,8 @@
     "id": "1509960",
     "name": "PICO PARK",
     "difficulty": 1,
-    "pcRequirements": 1
+    "pcRequirements": 1,
+    "languageNotRequired": true
   },
   {
     "id": "620",
